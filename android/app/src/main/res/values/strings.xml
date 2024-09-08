@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">proj_ionic_unisum</string>
+    <string name="title_activity_main">proj_ionic_unisum</string>
+    <string name="package_name">com.proj_ionic_unisum</string>
+    <string name="custom_url_scheme">com.proj_ionic_unisum</string>
+</resources>

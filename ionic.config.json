@@ -1,5 +1,7 @@
 {
   "name": "proj_ionic_unisum",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
